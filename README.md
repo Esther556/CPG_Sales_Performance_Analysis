@@ -27,7 +27,7 @@ Real-world data is rarely ready for analysis. In this project, I addressed:
 
 ## Key Metrics Created (DAX)
 I developed a suite of automated measures to track business health:
-*   **Total Sales & Profit Margin %**[cite: 1].
+*   **Total Sales & Profit Margin %**.
 *   **YoY Growth:** Comparing performance against the same period in the previous year.
 *   **YTD/MTD Tracking:** Providing real-time progress against monthly and annual targets.
 *   **Discount Impact:** Measuring revenue loss vs. volume gain from high discount rates.
